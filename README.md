@@ -12,8 +12,6 @@ Unstructured Database management : MongoDB
 Structured Database management : MySQL                                                                          
 
 
-
-![Logo](https://th.bing.com/th/id/R.e8313479d3ee7fec5bbea87b04bd14d3?rik=tZduueC6m3h15Q&riu=http%3a%2f%2ftruelogic.org%2fwordpress%2fwp-content%2fuploads%2f2015%2f08%2fMongoDB_Logo_Full_White.png&ehk=aI10DBrPlfGtPjS7NFDIselEWNSu%2fkPG9Or%2flJY5tGI%3d&risl=&pid=ImgRaw&r=0)
-![Logo](https://res.cloudinary.com/yktoo/image/upload/t_s320/blog/6ksp2zl5yoy52890.png)
+![kisspng-python-scalable-vector-graphics-logo-javascript-cl-coderpete-game-development-5b6819307ca155 2506144815335488485105](https://user-images.githubusercontent.com/93982828/147743358-b52ecc20-edbd-48fb-9a1a-c14015a80637.jpg)  ![R](https://user-images.githubusercontent.com/93982828/147743378-5985f2ff-33ad-4ce4-9b8b-e0bdf8bc299f.png)  ![mysql-5-logo-png-transparent (1)](https://user-images.githubusercontent.com/93982828/147743397-4cd6ecbd-7a69-4170-923a-9f798e484f0d.png)
 
 
