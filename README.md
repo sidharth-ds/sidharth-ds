@@ -16,4 +16,5 @@ MySQL...
 
 ![mongodb2](https://user-images.githubusercontent.com/93982828/147739288-d7c71dc2-df50-495f-820b-bdd54c1050e2.jpeg)
 
-![mongodb2](https://user-images.githubusercontent.com/93982828/147739356-ab940440-ccc9-42be-a4e0-53d66056fc81.jpeg)
+![xampp-logo-trio1](https://user-images.githubusercontent.com/93982828/147739421-aefbc723-cb27-40a9-a8b5-9fe7fd14bd17.jpg)
+
