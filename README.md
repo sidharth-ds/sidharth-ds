@@ -11,7 +11,7 @@ I'm an Aspiring Data Scientist...
 * Programing language : Python                                                            
 * Unstructured Database management : MongoDB                                                                   
 * Structured Database management : MySQL (xampp)                                                                         
-* Data Manipulation : Pandas, Numpy
-* Data Visulization : Matplotlib, Plotly, Seaborn, Bokeh, PowerBI
+* Data Manipulation tools : Pandas, Numpy
+* Data Visulization tools : Matplotlib, Plotly, Seaborn, Bokeh, PowerBI
 
 
