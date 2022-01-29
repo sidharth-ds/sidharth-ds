@@ -13,5 +13,6 @@ I'm an Aspiring Data Scientist...
 * Structured Database management : MySQL (xampp)                                                                         
 * Data Manipulation tools : Pandas, Numpy
 * Data Visulization tools : Matplotlib, Plotly, Seaborn, Bokeh, PowerBI
+* Mathematics knowledge : Probablity & Statistics
 
 
