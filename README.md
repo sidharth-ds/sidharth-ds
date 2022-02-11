@@ -16,10 +16,11 @@ I'm an Aspiring Data Scientist...
 
 ## 💼 Skills that i have Learnt
 
-* Data Exploration
 * Data Cleaning
-* Feature Selection
+* Exploratory Data Analysis
+* Feature Engineering
 * Data Modelling
 * Model Validation
+* Interpretation of the model
 
 
