@@ -38,6 +38,7 @@ I'm an Aspiring Data Scientist...
 
 * Unsupervised Learning algorithms:
     * k-means clustering
+    * Dimensionality reduction : PCA (Principal Component Analysis)
     
 * NLP: (Natural Language Processing)
     * Compressing Textual data : Tokenisation, POS Tagging, Lemmatisation
