@@ -6,7 +6,7 @@
 I'm an Aspiring Data Scientist...
 
 
-## 🛠 Tools that i have Worked with:
+## 🛠 Tools that i have learnt:
 
 * Programing language : Python                                                            
 * Unstructured Database management : MongoDB                                                                   
