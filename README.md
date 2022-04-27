@@ -13,16 +13,9 @@ I'm an Aspiring Data Scientist...
 * Structured Database management : MySQL (xampp)                                                                         
 * Data Manipulation tools : Pandas, Numpy, PySpark
 * Data Visulization tools : Matplotlib, Plotly, Seaborn, Bokeh, PowerBI
-* Machine Learning package : scikit learn, NLP packages
-
-## 💼 Skills that i have Learnt:
-
-* Data Cleaning
-* Exploratory Data Analysis
-* Feature Selection
-* Data Modelling
-* Model Validation
-* Interpretation of the model
+* Machine Learning package : scikit learn
+* Natural Language Processing
+* Model Deployment : Flask
 
 ## Machine Learning Algorithms that i have Learnt:
 
