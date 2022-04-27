@@ -9,11 +9,10 @@ I have done end-to-end ML projects along with deployment
 
 ## 🛠 Tools that i have learnt:
 
-* Programing language : Python                                                            
-* Unstructured Database management : MongoDB                                                                   
-* Structured Database management : MySQL (xampp)                                                                         
+* Programming language : Python                                                            
+* Database management : MongoDB (unstructured) , SQL (structured)                                                            
 * Data Manipulation tools : Pandas, Numpy, PySpark
-* Data Visulization tools : Matplotlib, Plotly, Seaborn, Bokeh, PowerBI
+* Data Visulization tools : Matplotlib, Plotly, Seaborn, PowerBI, Bokeh
 * Machine Learning package : scikit learn
 * Natural Language Processing
 * Model Deployment : Flask
@@ -21,12 +20,9 @@ I have done end-to-end ML projects along with deployment
 ## Machine Learning Algorithms that i have Learnt:
 
 * Supervised Learning algorithms:
-    * Linear regression, Ridge and Lasso Regression
-    * Logistic Regression
-    * KNN - classifier & regression
-    * Naive Bayes classifier
-    * Decision tree algorithm
-    * Random Forest algorithm
+    * Linear regression, Ridge and Lasso Regression   * Logistic Regression
+    * KNN - classifier & regression   * Naive Bayes classifier
+    * Decision tree algorithm   * Random Forest algorithm
     * XGBoost algorithm
     * Handling Imbalanced dataset
 
