@@ -20,11 +20,11 @@ I have done end-to-end ML projects along with deployment
 ## Machine Learning Algorithms that i have Learnt:
 
 * Supervised Learning algorithms:
-    1) Linear regression, Ridge and Lasso Regression   2) Logistic Regression
-    3) KNN - classifier & regression                   4) Naive Bayes classifier
-    5) Decision tree algorithm                         6) Random Forest algorithm
-    7) XGBoost algorithm
-    8) Handling Imbalanced dataset
+       1) Linear regression, Ridge and Lasso Regression   2) Logistic Regression
+       3) KNN - classifier & regression                   4) Naive Bayes classifier
+       5) Decision tree algorithm                         6) Random Forest algorithm
+       7) XGBoost algorithm
+       8) Handling Imbalanced dataset
 
 * Unsupervised Learning algorithms:
     * k-means clustering
