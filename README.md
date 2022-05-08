@@ -26,7 +26,7 @@ I have done end-to-end ML projects along with Deployment, done projects in Deep 
      8) Handling Imbalanced dataset
 
 * Unsupervised Learning algorithms:
-    * k-means clustering
+    * k-means clustering, Hierarchical clustering, DBSCAN clustering
     * Dimensionality reduction : PCA (Principal Component Analysis)
     
 * NLP: (Natural Language Processing)
