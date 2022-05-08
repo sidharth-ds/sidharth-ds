@@ -12,7 +12,7 @@ I have done end-to-end ML projects along with Deployment ....... done projects i
 * Binary classification problems ......... Multiclass classification problems
 * Regression problems
 
-## Machine Learning Algorithms that i have Learnt:
+## Machine Learning Algorithms using Scikit-Learn:
 
 * Supervised Learning algorithms:
      *  Linear regression, Ridge and Lasso Regression ........ Logistic Regression
@@ -31,7 +31,7 @@ I have done end-to-end ML projects along with Deployment ....... done projects i
         * Binary approach .... Frequency approach ..... TF-IDF scoring
 
 
-## 🛠 Tools that i have learnt:
+## 🛠 Data Science Tools that I have learnt:
 
 * Programming language : Python                                                            
 * Database management : MongoDB (unstructured) ..... SQL (structured)                                                            
