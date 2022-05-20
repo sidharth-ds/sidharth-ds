@@ -1,19 +1,19 @@
 
-# Hi, I'm Sidharth! 👋
+# Hi 👋👋  I'm Sidharth!😄 
 
 
-## 🚀 About Me
-   ### I'm an Aspiring Data Scientist...
+## 🚀 About Me 
+   ###  ⚡️⚡️ I'm an Aspiring Data Scientist 
 
-   ### I have done end-to-end ML projects :   Web scraping ---> Data Preprocessing ---> Modelling ---> Deployment  
-   ### I am good at deriving Insights from the data and help businesses improve their business performance.
+   ###  ⚡️⚡️ I have done end-to-end ML projects :   Web scraping ---> Data Preprocessing ---> Modelling ---> Deployment  
+   ###  ⚡️⚡️ I am good at deriving Insights from the data and help businesses improve their business performance.
 
-## Deep Learning using Keras:
+## 🛠 Deep Learning using Keras:
 
       * Binary classification problems ......... Multiclass classification problems
       * Regression problems
 
-## Machine Learning Algorithms using Scikit-Learn:
+## 🛠 Machine Learning Algorithms using Scikit-Learn:
 
       * Supervised Learning algorithms:
            *  Linear regression, Ridge and Lasso Regression ........ Logistic Regression
