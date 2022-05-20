@@ -30,6 +30,7 @@
           * Vectorization : 
               * 1-gram .... n-gram vocabulary
               * Binary approach .... Frequency approach ..... TF-IDF scoring
+---
 
 
 ## 🛠 Data Science Tools that I have learnt:
