@@ -10,8 +10,8 @@
 
 ## Deep Learning using Keras:
 
-    * Binary classification problems ......... Multiclass classification problems
-    * Regression problems
+      * Binary classification problems ......... Multiclass classification problems
+      * Regression problems
 
 ## Machine Learning Algorithms using Scikit-Learn:
 
