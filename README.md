@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm an Aspiring Data Scientist...
 
-I have done end-to-end ML projects along with Deployment ....... done projects in Deep learning.
+I have done end-to-end ML projects along with Deployment ....... 
 
 ## Deep Learning using Keras:
 
