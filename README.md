@@ -1,8 +1,8 @@
 
-# Hi 👋  I'm Sidharth!😄 
+# Hi 👋  I'm Sidharth! 
 
 
-## 🚀 About Me :
+#### 🚀 About Me :
    ###           ⚡️ I'm an Aspiring **Data Scientist** 
 
    ###           ⚡️ I have done **end-to-end** ML projects :   **Web scraping** ---> **Data Preprocessing** ---> **Modelling** ---> **Deployment**  
