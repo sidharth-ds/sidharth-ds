@@ -4,9 +4,7 @@
 
 #### 🚀 About Me :
   ### *  I'm an Aspiring 🎇🎇Data Scientist🎇🎇 
-  ### *  I have done **end-to-end** ML projects :   **Web scraping** ---> **Data Preprocessing** ---> **Modelling** ---> **Deployment**. 
-  ### *  ........  I enjoy **✨Deriving Insights✨** from the data ...... **🤝helping Businesses🤝** improve their performance through **💰Loss Reduction**  and  **Profit Maximization💰**. 
----   
+ 
 
 ## 🛠 Deep Learning using Keras:
 
