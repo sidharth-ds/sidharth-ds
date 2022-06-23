@@ -4,14 +4,24 @@
 
 #### 🚀 About Me :
   ### *  I'm an Aspiring 🎇🎇Data Scientist🎇🎇 
- 
+  
+  
+## 🛠 Data Science Tools that I have learnt:
 
-## 🛠 Deep Learning using Keras:
+      * Programming language : Python                                                            
+      * Database management : MongoDB (unstructured) ..... SQL (structured)                                                            
+      * Data Manipulation tools : Pandas .... Numpy ..... PySpark
+      * Data Visulization tools : Matplotlib ... Plotly ... Seaborn ... PowerBI ... Bokeh
+      * Machine Learning package : scikit learn
+      * Model Deployment : Flask
+      * Deep Learning : Keras
+ 
+## 🛠 Deep Learning (Keras):
 
       * Binary classification problems ......... Multiclass classification problems
       * Regression problems
 
-## 🛠 Machine Learning Algorithms using Scikit-Learn:
+## 🛠 Machine Learning Algorithms (Scikit-Learn):
 
       * Supervised Learning algorithms:
            *  Linear regression, Ridge and Lasso Regression ........ Logistic Regression
@@ -29,15 +39,4 @@
               * 1-gram .... n-gram vocabulary
               * Binary approach .... Frequency approach ..... TF-IDF scoring
 ---
-
-
-## 🛠 Data Science Tools that I have learnt:
-
-      * Programming language : Python                                                            
-      * Database management : MongoDB (unstructured) ..... SQL (structured)                                                            
-      * Data Manipulation tools : Pandas .... Numpy ..... PySpark
-      * Data Visulization tools : Matplotlib ... Plotly ... Seaborn ... PowerBI ... Bokeh
-      * Machine Learning package : scikit learn
-      * Model Deployment : Flask
-      * Deep Learning : Keras
 
