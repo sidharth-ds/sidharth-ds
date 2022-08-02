@@ -1,10 +1,5 @@
 
 # Hi 👋  I'm Sidharth! 
-
-
-#### 🚀 About Me :
-  ###   I'm a Data Scientist.
-  
   
 ## 🛠 Data Science Tools that I have learnt:
 
