@@ -3,7 +3,7 @@
 
 
 #### 🚀 About Me :
-  ###   I'm an Aspiring Data Scientist.
+  ###   I'm a Data Scientist.
   
   
 ## 🛠 Data Science Tools that I have learnt:
