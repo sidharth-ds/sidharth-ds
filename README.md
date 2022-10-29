@@ -1,5 +1,5 @@
 
-# Hi 👋  I'm Sidharth! 
+# Hi 👋  I'm Sidharth [Data Scientist]
   
 ## 🛠 Data Science Tools that I have learnt:
 
