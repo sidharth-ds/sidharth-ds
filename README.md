@@ -1,25 +1,29 @@
 
 # Hi 👋  I'm Sidharth
-  
+
+## 🛠 Skills:
+      * Business Analysis
+      * Data Analysis
+      
 ## 🛠 Tools that I have learnt:
-
       * Programming language : Python                                                            
-      * Database management : SQL (structured)                                                            
-      * Data Manipulation tools : Pandas .... Numpy
-      * Data Visulization tools : Matplotlib ... Plotly ... Seaborn ... PowerBI ... Bokeh
-      * Machine Learning package : scikit learn
-
+      * Query language : SQL (structured)                                                            
+      * Data Visulization tools :  PowerBI ... Tableau ... Excel
+      * Wireframe tools : Lucid chart, Draw.io
+      * MS Office & Google Suite : Excel, Word, Sheets, Docs, PPT, Slides
+      * Statistics - Hypothesis testing, Central measures, ...
+      * Machine Learning : scikit learn, NLP
+ 
 ## 🛠 Machine Learning Algorithms (Scikit-Learn):
 
       * Supervised Learning algorithms:
-           *  Linear regression, Ridge and Lasso Regression ........ Logistic Regression
-           *  KNN - classifier & regression .......... Naive Bayes classifier
-           *  Decision tree algorithm .......... Random Forest algorithm ........ XGBoost algorithm
+           *  Linear regression, Logistic Regression
+           *  KNN - classifier & regression, Naive Bayes classifier
+           *  Decision tree algorithm, Random Forest, XGBoost algorithm
            *  Handling Imbalanced dataset
 
       * Unsupervised Learning algorithms:
-          * k-means clustering ....... Hierarchical clustering ......... DBSCAN clustering
-          * Dimensionality reduction : PCA (Principal Component Analysis)
+          * k-means clustering 
 
       * NLP: (Natural Language Processing)
           * Compressing Textual data : Tokenisation .... POS Tagging .... Lemmatisation
