@@ -1,20 +1,13 @@
 
-# Hi 👋  I'm Sidharth [Data Scientist]
+# Hi 👋  I'm Sidharth
   
-## 🛠 Data Science Tools that I have learnt:
+## 🛠 Tools that I have learnt:
 
       * Programming language : Python                                                            
-      * Database management : MongoDB (unstructured) ..... SQL (structured)                                                            
-      * Data Manipulation tools : Pandas .... Numpy ..... PySpark
+      * Database management : SQL (structured)                                                            
+      * Data Manipulation tools : Pandas .... Numpy
       * Data Visulization tools : Matplotlib ... Plotly ... Seaborn ... PowerBI ... Bokeh
       * Machine Learning package : scikit learn
-      * Model Deployment : Flask
-      * Deep Learning : Keras
- 
-## 🛠 Deep Learning (Keras):
-
-      * Binary classification problems ......... Multiclass classification problems
-      * Regression problems
 
 ## 🛠 Machine Learning Algorithms (Scikit-Learn):
 
