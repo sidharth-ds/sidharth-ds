@@ -1,5 +1,5 @@
 
-# Hi 👋  I'm Sidharth
+# Hi 👋 
 
 ## 🛠 Skills:
       * Business Analysis
